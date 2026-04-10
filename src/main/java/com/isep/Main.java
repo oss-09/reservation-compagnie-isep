@@ -2,6 +2,10 @@ package com.isep;
 
 public class Main {
 
+    // Le lien : https://github.com/oss-09/reservation-compagnie-isep
+    // Tim Schoulmann-Doré
+    // Osama ALAHYANE
+
     public static void main(String[] args) {
 
         Aeroport paris = new Aeroport("CDG", "Paris", "Charles de Gaulle");
