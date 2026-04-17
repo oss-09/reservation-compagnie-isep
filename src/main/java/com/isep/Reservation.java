@@ -41,11 +41,10 @@ public class Reservation {
     }
 
     public void obtenirInfos() {
-        System.out.println("Numero: " + numeroReservation);
-        System.out.println("Date :" + dateReservation);
+        System.out.println("Numero : " + numeroReservation);
+        System.out.println("Date : " + dateReservation);
         System.out.println("Statut : " + statut);
         System.out.println("Passager : " + passager.getNom());
-        System.out.println("Vol:" + vol.getNumeroVol());
+        System.out.println("Vol : " + vol.getNumeroVol());
     }
 }
-
